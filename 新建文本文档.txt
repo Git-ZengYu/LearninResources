@@ -3,3 +3,9 @@ GitHub USTC-CS-Courses-Resource 中科大
 
 CSDN
 http://jinnianshilongnian.iteye.com/  技术文章很OK
+
+
+java成神之路
+github: https://github.com/hollischuang/toBeTopJavaer
+https://www.hollischuang.com/archives/category/java
+主要分享java相关基础到框架等的知识
